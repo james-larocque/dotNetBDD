@@ -25,6 +25,8 @@
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/home/james/Repos/bdd/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/home/james/Repos/bdd/bin/Debug/netcoreapp3.1/WebDriver.dll
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
 /home/james/Repos/bdd/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
